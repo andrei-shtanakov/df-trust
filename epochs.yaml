@@ -1,0 +1,4 @@
+schema: approval-policy-epochs/v1
+epochs:
+  - epoch: 1
+    anchor: c2890c0341d57836090b97e60b77820386a263c9
